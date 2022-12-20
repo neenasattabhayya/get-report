@@ -127,7 +127,7 @@ function App() {
     },
     {
       sr: 25,
-      name: "Loyed Steel",
+      name: "Lloyed Steel",
       checked: false,
     },
     {
